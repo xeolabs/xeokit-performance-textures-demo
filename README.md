@@ -13,8 +13,9 @@ Pre-release of the feature branch:
 ## Examples
 
 * [Viewing a photogrammetry scan from glTF](https://xeolabs.github.io/xeokit-performance-textures-demo/examples/loading_glTF_photogrammetry)
-* [Measuring distances on photogrammetry scan from glTF](https://xeolabs.github.io/xeokit-performance-textures-demo/examples/gizmos_SectionPlanesPlugin_createWithMouse_photogrammetry)
-* [Measuring angles on photogrammetry scan from glTF](https://xeolabs.github.io/xeokit-performance-textures-demo/examples/measurements_angle_createWithMouse_photogrammetry)
+* [Slicing a photogrammetry scan from glTF](https://xeolabs.github.io/xeokit-performance-textures-demo/examples/gizmos_SectionPlanesPlugin_createWithMouse_photogrammetry)
+* [Measuring distances on a photogrammetry scan from glTF](https://xeolabs.github.io/xeokit-performance-textures-demo/examples/measurements_distance_createWithMouse_photogrammetry)
+* [Measuring angles on a photogrammetry scan from glTF](https://xeolabs.github.io/xeokit-performance-textures-demo/examples/measurements_angle_createWithMouse_photogrammetry)
 * [Slicing a photogrammetry scan from glTF](https://xeolabs.github.io/xeokit-performance-textures-demo/examples/gizmos_SectionPlanesPlugin_createWithMouse_photogrammetry)
 
 ## Issues
