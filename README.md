@@ -6,7 +6,7 @@ Introduces the ability to load triangle meshes with color texture from glTF. Thi
 
 ## NPM Package
 
-Pre-release of the feature branch:
+Pre-release of the feature branch on [npm](https://www.npmjs.com/package/@xeokit/xeokit-sdk):
 
 * @xeokit/xeokit-sdk 2.2.5-performance-textures-beta
 
@@ -40,6 +40,10 @@ Pre-release of the feature branch:
 * [Source code](https://github.com/xeolabs/xeokit-performance-textures-demo/blob/main/examples/measurements_angle_createWithMouse_photogrammetry.html)
 
 ---
+
+## Docs
+
+* [API Docs](https://xeolabs.github.io/xeokit-performance-textures-demo//docs)
 
 ## Issues
 
