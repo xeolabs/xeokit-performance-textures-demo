@@ -2,7 +2,7 @@
 
 ## Overview
 
-Introduces the ability to load triangle meshes with color texture from glTF. This allows us to view textured photogrammetry meshes converted from point clouds.
+Introduces the ability to load triangle meshes with color texture from glTF with [GLTFLoaderPlugin](https://xeolabs.github.io/xeokit-performance-textures-demo/docs/class/src/plugins/GLTFLoaderPlugin/GLTFLoaderPlugin.js~GLTFLoaderPlugin.html). This allows us to view textured photogrammetry meshes converted from point clouds.
 
 ## NPM Package
 
