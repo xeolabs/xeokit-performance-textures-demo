@@ -18,7 +18,8 @@ Pre-release of the feature branch on [npm](https://www.npmjs.com/package/@xeokit
 
 * [Viewing a photogrammetry scan from glTF](https://xeolabs.github.io/xeokit-performance-textures-demo/examples/loading_glTF_photogrammetry)
 * [Source code](https://github.com/xeolabs/xeokit-performance-textures-demo/blob/main/examples/loading_glTF_photogrammetry.html)
-* [Model source](https://sketchfab.com/3d-models/skatepark-17e32c89b5574d48b10f06a57d2500df)
+* [glTF Model](https://github.com/xeolabs/xeokit-performance-textures-demo/tree/main/assets/models/gltf/skatepark)
+
 ---
 
 [![screenshot from 2018-02-01 02-02-50](assets/images/slice.gif)](https://xeolabs.github.io/xeokit-performance-textures-demo/examples/gizmos_SectionPlanesPlugin_createWithMouse_photogrammetry)
