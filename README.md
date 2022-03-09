@@ -47,8 +47,17 @@ Pre-release of the feature branch on [npm](https://www.npmjs.com/package/@xeokit
 
 ## Issues
 
-1. Some geometries loaded by XKTLoaderPlugin are positioned incorrectly. This is a breakage in the transforms for those objects, an easy fix.
+1. Some geometries loaded by XKTLoaderPlugin are positioned incorrectly. This is a breakage in the transforms for those objects, an easy fix. In the meantime, we can work around this issue by adding ````reuseGeometries: false```` when we load the XKT model, as shown below:
 
+````javascript
+const xktLoader = new XKTLoaderPlugin(viewer);
+
+const model = xktLoader.load({
+    id: "myModel",
+    src: "../assets/models/xkt/v8/ifc/Duplex.ifc.xkt",
+    reuseGeometries: false // <<------ Add this
+});
+````
 ## Next Steps
 
 1. Finish XKTLoaderPlugin support for textures
